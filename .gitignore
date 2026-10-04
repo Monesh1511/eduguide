@@ -1,0 +1,29 @@
+# Environment variables / secrets
+.env
+
+# Python virtual environment
+venv/
+.venv/
+edu/
+.edu/
+node_modules/
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Generated vector database
+data/vectorstore/
+backend/data/uploads/
+backend/data/index_cache/
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local files
+.DS_Store
